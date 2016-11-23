@@ -1,0 +1,186 @@
+.header {
+  background-color: #fff;
+}
+
+.navbar-default {
+  border: 0;
+  margin-bottom: 0;
+  border-bottom: solid 1px #ddd;
+  background: none;
+}
+
+.navbar{
+}
+
+.navbar-default .navbar-nav li {
+  padding: 8px 0;
+}
+
+.navbar-default .navbar-nav li a {
+  font-size: 1.150em;
+  line-height: 30px;
+  font-weight: 600;
+}
+
+.brand-tagline {
+  color: #333;
+}
+
+.top-nav a {
+  display: inline-block;
+}
+
+.top-nav ul li a {
+  font-size: 13px;
+}
+
+.search-box {
+  display: inline-block;  
+}
+
+.heading-section {
+  text-align: center;
+  padding: 55px 0;
+}
+
+.heading-section h2 {
+  font-weight: 600;
+  font-size: 2.571em;
+}
+
+.heading-dark {
+  color: #fff;
+}
+
+.thumbnail {
+  text-align: center;
+  border: none;
+}
+
+.thumbnail .icon i {
+  font-size: 40px;
+  line-height: 110px;
+  border: 5px solid #ffc20e;
+  width: 120px;
+  height: 120px;
+  color: #ffc20e;
+  border-radius: 50%;
+}
+
+li a.btn-maybank {
+  font-size: 1.150em;
+  line-height: 30px;
+  font-weight: 400;
+  border: solid 2px #ffc20e;
+  border-radius: 5px;
+  color: #ffc20e !important;
+}
+
+.btn-yellow {
+  color: #fff;
+  background-color: #FFCD00;
+  border-color: #FFCE03;
+}
+
+.section-downloads {
+  background-image: url("../images/download-background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-bottom: 80px;
+}
+
+.section-downloads h2 {
+  color: #fff;
+}
+
+
+.icon-downloads {
+  list-style: none;
+  text-align: center;
+}
+
+ul.icon-downloads {
+  padding: 0 0 10px 0;
+}
+
+.icon-downloads li {
+  display: inline;
+}
+
+.icon-downloads li a img {
+  width: 130px;
+}
+
+.blog-post {
+  position: relative;
+  margin-bottom: 10px;
+}
+
+.blog-content {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(0,0,0,0.7);
+  width: 100%;
+  padding: 15px;
+  color: #fff;
+}
+
+.content-show span {
+  color: #f78e21;
+}
+
+.content-show a {
+  font-size: 14px;
+  font-weight: 700;
+  color: #fff;
+  text-decoration: none;
+}
+
+.content-hidden {
+  display: none;
+}
+
+.blog-thumb img {
+  width: 100%;
+  height: 300px;
+}
+
+#partners {
+  margin: 50px 0;
+  background-image: url("../images/partners/bg_partners.jpg");
+  padding-bottom: 80px;
+}
+
+.partner-list ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.partner-list ul li {
+  display: inline-block;
+  width: 20%;
+  float: left;
+}
+
+.more-info img {
+  max-height: 35px;
+}
+
+.more-info {
+  margin: 0;
+  padding: 0;
+}
+
+.more-info li {
+  list-style: none;
+  margin: 10px 0;
+  font-size: 13px;
+  color: #666;
+}
+
+.more-info i {
+  color: #ffc20e;
+  font-size: 18px;
+}
